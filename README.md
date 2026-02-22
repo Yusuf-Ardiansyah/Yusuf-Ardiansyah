@@ -1,16 +1,21 @@
-## Hi there 👋
+﻿# 👋 Halo, Saya Yusuf Ardiansyah!
 
-<!--
-**Yusuf-Ardiansyah/Yusuf-Ardiansyah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Windows Optimization & Flutter Developer Enthusiast
 
-Here are some ideas to get you started:
+Saya adalah seorang pengembang yang berfokus pada efisiensi sistem dan pembuatan aplikasi Android yang modern. Saat ini saya sedang mengembangkan proyek **[Surat Al-Waqiah App](https://github.com/Yusuf-Ardiansyah/surat_al_waqiah)**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Keahlian & Teknologi
+* **Mobile Development**: Flutter & Dart (Set-Set Mode ON!)
+* **System Optimization**: Windows 11 Tuning & PowerShell Scripting
+* **Networking**: MikroTik Configuration
+
+---
+
+### 👨‍💻 Arsenal Sakti (My PowerShell Shortcuts)
+Proyek saya dikelola dengan otomatisasi kustom untuk produktivitas maksimal:
+- `pg`, `apk`, `ins`, `zip`, dan `gp`.
+
+---
+*"Bekerja cerdas dengan otomatisasi, bukan cuma bekerja keras."*
