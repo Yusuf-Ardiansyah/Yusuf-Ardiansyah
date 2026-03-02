@@ -2,7 +2,7 @@
 
 ### 🚀 Windows Optimization & Flutter Developer Enthusiast
 
-Saya adalah seorang pengembang yang berfokus pada efisiensi sistem dan pembuatan aplikasi Android yang modern. Saat ini saya sedang mengembangkan proyek **[Surat Al-Waqiah App](https://github.com/Yusuf-Ardiansyah/surat_al_waqiah)**.
+Saya adalah seorang pengembang yang berfokus pada efisiensi sistem dan pembuatan aplikasi Android yang modern. Saat ini saya sedang mengembangkan proyek **[Yasin-Tahlil](https://github.com/Yusuf-Ardiansyah/Yasin-Tahlil)**.
 
 ---
 
